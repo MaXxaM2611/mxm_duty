@@ -22,8 +22,6 @@ Config = {
 
 
 Lang = {
-
-    ["label_progbar"]       = "Compilando...",  
     ["enter_duty"]          = "Entra in Servizio",
     ["leave_duty"]          = "Esci dal Servizio",
     ["title_duty_menu"]     = "Menu Servizio",
